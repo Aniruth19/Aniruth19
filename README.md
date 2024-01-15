@@ -1,3 +1,4 @@
+<div style="background-color: #f2f2f2;">
 <div align="center">
 
 # 👋 Hello World! I'm Aniruthan 👨‍💻
@@ -27,5 +28,5 @@ Open to collaborating on interesting projects! If you have a cool idea or need h
 
 - 📁 GitHub: [@Aniruth19](https://github.com/Aniruth19)
 - 📧 Email: m.aniruthan@gmail.com
-
+</div>
 
