@@ -1,3 +1,8 @@
+<div align="center">
+<img align="top" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" >
+
+</div>
+
 <div style="background-color: #f2f2f2;">
 <div align="center">
 
