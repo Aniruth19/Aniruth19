@@ -20,9 +20,9 @@ Passionate web developer from India 🇮🇳 | currently pursuing 3rd-year BE in
 
 ## 👀 Interests
 
-- 💻 Web Development, where my code comes to life... or not.
+- 💻 Web Development
 - 🧠 Problem Solving, because real-life problems are too mainstream.
-- 🚀 Exploring New Technologies, hoping they'll solve my existential crisis.
+- 🚀 Exploring New Technologies
 
 
 ## 🤝 Collaboration
