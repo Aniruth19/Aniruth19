@@ -15,7 +15,7 @@ Passionate web developer from India 🇮🇳 | currently pursuing 3rd-year BE in
 ## 🌱 What I'm Currently Up To
 
 - 🚀 Exploring the vast world of web development.
-- 📚 Learning new technologies that make coding more fun and my life less meaningful.
+- 📚 Learning new technologies that make coding more fun
 
 
 ## 👀 Interests
