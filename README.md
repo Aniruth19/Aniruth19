@@ -8,7 +8,7 @@
 
 # 👋 Hello World! I'm Aniruthan 👨‍💻
 
-Passionate web developer from India 🇮🇳 | currently pursuing 4rd-year BE in Computer Science
+Passionate web developer from India 🇮🇳 | currently pursuing 4th-year BE in Computer Science
 
 </div>
 
