@@ -36,7 +36,7 @@ Open to collaborating on interesting projects! If you have a cool idea or need h
 </div>
 
 
-## 🤝 Languages and Tools
+## ⚙️⚒️ Languages and Tools
 
 
 
